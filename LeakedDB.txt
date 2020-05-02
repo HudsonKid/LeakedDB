@@ -1,0 +1,26 @@
+Cyber Skiddies Leaked Database
+
+Name:				Position:				Salary:
+
+Jacob Randall			CEO					$120,000.00
+Natalie Mason			CTO					$95,500.00
+
+Amy Calice			Senior Security Analyst			$80,000.00
+Dean Nason			Senior Security Analyst			$80,000.00
+
+Taylor Jose			Senior Red Team Pen Tester		$75,000.00
+Garcia Irene			Senior Red Team Pen Tester		$75,000.00
+
+Bertrand Delphine		Junior Security Analyst			$70,000.00
+Cooper Ernest			Junior Security Analyst			$70,000.00
+Orlando Wolff		        Junior Security Analyst			$70,000.00
+
+Rose Nathan			Junior Red Team Pen Tester		$60,000.00
+Jill Curtis			Junior Red Team Pen Tester		$60,000.00
+Andrea Vestergaard		Junior Red Team Pen Tester		$60,000.00
+
+Lecha Ryzaev			Intern					$0.00
+Edith Artemova			Intern					$0.00
+
+
+CSCCTF{G1thuB_Mu$t_b3_N1c3}
